@@ -1,0 +1,16 @@
+F:\Project\WebQuanLyBanHang\Model\bin\Debug\Model.dll.config
+F:\Project\WebQuanLyBanHang\Model\bin\Debug\Model.dll
+F:\Project\WebQuanLyBanHang\Model\bin\Debug\Model.pdb
+F:\Project\WebQuanLyBanHang\Model\bin\Debug\EntityFramework.dll
+F:\Project\WebQuanLyBanHang\Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\Project\WebQuanLyBanHang\Model\bin\Debug\EntityFramework.xml
+F:\Project\WebQuanLyBanHang\Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\Project\WebQuanLyBanHang\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+F:\Project\WebQuanLyBanHang\Model\obj\Debug\Model.csproj.CopyComplete
+F:\Project\WebQuanLyBanHang\Model\obj\Debug\Model.dll
+F:\Project\WebQuanLyBanHang\Model\obj\Debug\Model.pdb
+F:\Project\WebQuanLyBanHang\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+F:\Project\WebQuanLyBanHang\Model\bin\Debug\PagedList.dll
+F:\Project\WebQuanLyBanHang\Model\bin\Debug\PagedList.Mvc.dll
+F:\Project\WebQuanLyBanHang\Model\bin\Debug\PagedList.xml
+F:\Project\WebQuanLyBanHang\Model\bin\Debug\PagedList.Mvc.xml
